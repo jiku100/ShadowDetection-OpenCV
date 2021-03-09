@@ -1,7 +1,7 @@
 # ShadowDetection-OpenCV
 ShadowDetection Using OpenCV
 
-#cites
+# Citation
 1. @article {10.1111:j.1467-8659.2008.01155.x,
 journal = {Computer Graphics Forum},
 title = {{The Shadow Meets the Mask: Pyramid-Based Shadow Removal}},
